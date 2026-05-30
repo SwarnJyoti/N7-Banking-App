@@ -98,6 +98,6 @@ function Solutions() {
   );
 }
 
-export default Solutions;
+export default Solutions;  
 
 

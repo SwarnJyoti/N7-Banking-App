@@ -46,4 +46,4 @@ function CaseStudies() {
   );
 }
 
-export default CaseStudies;
+export default CaseStudies;   

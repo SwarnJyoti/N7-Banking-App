@@ -44,4 +44,4 @@ function CoreBankingSection() {
   );
 }
 
-export default CoreBankingSection;
+export default CoreBankingSection;   
