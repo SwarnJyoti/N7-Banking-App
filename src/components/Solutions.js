@@ -1,6 +1,5 @@
 import vector1 from "../assets/Vector (1).png";
 import vector3 from "../assets/Vector (3).png";
-import vector5 from "../assets/Vector (5).png";
 import vector7 from "../assets/Vector (7).png";
 import vector6 from "../assets/Vector (6).png";
 import Group from "../assets/Group.png";
